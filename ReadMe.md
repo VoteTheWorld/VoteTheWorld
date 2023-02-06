@@ -2,7 +2,13 @@
     
 [![0xdong Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CMoneyCaptain)
 
-I'm an avid Smart Contract/Blockchain Software Engineer, [Chainlink](https://chain.link/) Developer Advocate
+背景: 本科国内211中外合作信管，研究生QS50-100金融(在读，2023年毕业) 
 
-I'm here to help the world learn to code, do great things with data prowess, python lover, dance enthusiast, and life enthusiast.
+找工作ing，有岗位可DM
+
+Aims: Web3 Full-stack Engineer, Researcher, Trader
+
+Let's Jump into Web3.0 & Don’t Loss Positions.
+
+Do not forget to follow[twitter](https://twitter.com/CMoneyCaptain)!
 
