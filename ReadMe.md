@@ -10,5 +10,5 @@ Aims: Web3 Full-stack Engineer, Researcher, Trader
 
 Let's Jump into Web3.0 & Don’t Loss Positions.
 
-Do not forget to follow[twitter](https://twitter.com/CMoneyCaptain)!
+Do not forget to follow [twitter](https://twitter.com/CMoneyCaptain)!
 
