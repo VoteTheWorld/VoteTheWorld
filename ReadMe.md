@@ -4,7 +4,7 @@
 
 背景: 本科国内211中外合作信管，研究生QS50-100金融(在读，2023年毕业) 
 
-找工作ing，有岗位可DM
+找工作ing，有岗位可DM OPEN TO WORK
 
 Aims: Web3 Full-stack Engineer, Researcher, Trader
 
