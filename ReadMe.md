@@ -11,9 +11,8 @@ Always Trying: Designed and founded many projects, including sneakers exchange, 
 Always Learning: My passion for Web3 and self-learning development experience position me as a forward-thinking individual in the ever-evolving blockchain world.
 
 Always Exploring: Jump into Web3 and never lose position.
-Aims: Web3 Full-stack Engineer, Researcher, Trader
 
-Let's Jump into Web3.0 & Don’t Loss Positions.
+Aims: Web3 Full-stack Engineer, Researcher, Trader
 
 Do not forget to follow [twitter](https://twitter.com/CMoneyCaptain)!
 
