@@ -1,6 +1,6 @@
-<h2> Hi there 👋, I'm 0xdong! </h2>
+<h2> Hi there 👋, I'm Fred! </h2>
     
-[![0xdong Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CMoneyCaptain)
+[![Fred Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CMoneyCaptain)
 
 Currently a research assistant in the Fintech Department of Hong Kong University Shenzhen Research Institution.
 
