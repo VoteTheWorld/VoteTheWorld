@@ -1,18 +1,19 @@
-<h2> Hi there 👋, I'm Fred! </h2>
-    
-[![Fred Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CMoneyCaptain)
+<h2>Hi 👋 I'm Fred.</h2>
 
-Currently a research assistant in the Fintech Department of Hong Kong University Shenzhen Research Institution.
+<p>
+  Builder by instinct, Web3 by choice, non-mainstream by default.
+</p>
 
-Over 4 years of investment including crypto, sneakers, and stock, met different people and experienced ups and downs.
+<p>
+  <a href="https://x.com/votetheWorld">
+    <img alt="Fred Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-Always Trying: Designed and founded many projects, including sneakers exchange, campus service platform, and NFT marketplace, and kept following up with the users, finding the market demand, and iterating the products accordingly.
+<hr/>
 
-Always Learning: My passion for Web3 and self-learning development experience position me as a forward-thinking individual in the ever-evolving blockchain world.
-
-Always Exploring: Jump into Web3 and never lose position.
-
-Aims: Web3 Full-stack Engineer, Researcher, Trader
-
-Do not forget to follow [twitter](https://twitter.com/CMoneyCaptain)!
+<h3>🧪 Current Mode</h3>
+<ul>
+  <li>Building in public, staying unpredictable.</li>
+</ul>
 
